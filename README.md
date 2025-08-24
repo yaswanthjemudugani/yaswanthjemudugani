@@ -9,7 +9,7 @@
 🚀 **DevOps Engineer | ☁️ Multi-Cloud | ⚙️ Automation Enthusiast**  
 
 - 🔭 I’m currently working as a **DevOps Engineer with Gen AI integration** for increasing the DevOps productivity output.
-- 🌱 I’m currently exploring **Data + Dev **  
+- 🌱 I’m currently exploring **📊 Data  + 🚀 Dev + ♾️ Ops**  
 - 👯 I’m looking to collaborate on **DevOps automation, CI/CD pipelines, and cloud infrastructure projects**  
 - 🤔 I’m looking for help with **contributing to open-source DevOps tools**  
 - 💬 Ask me about **AWS, Azure, GCP, Docker, Kubernetes, Jenkins, Terraform, Ansible, CI/CD, and monitoring tools**  
@@ -17,6 +17,11 @@
 - ⚡ Fun fact: I automate my tasks so well that sometimes I forget how to do them manually 😅  
 
 ---
+
+## **📊 Data  + 🚀 Dev + ♾️ Ops**
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/864a6b35-18da-4858-912c-2589c94a0697" />
+
 
 ## 🏢 Professional Experience  
 
