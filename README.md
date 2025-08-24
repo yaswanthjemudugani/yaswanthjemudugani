@@ -8,7 +8,13 @@
 
 🚀 **DevOps Engineer | ☁️ Multi-Cloud | ⚙️ Automation Enthusiast**  
 
-I am a DevOps Engineer with **3 years of experience** in automating infrastructure and streamlining deployments. Skilled in **CI/CD, Docker, Kubernetes, Infrastructure as Code (IaC), and Multi-Cloud (AWS, Azure, GCP)**. Focused on enhancing **system reliability, scalability, and delivery efficiency**. Currently exploring **Gen AI integration in DevOps workflows** to accelerate productivity.  
+- 🔭 I’m currently working as a **DevOps Engineer** with 3 years of experience  
+- 🌱 I’m currently exploring **Gen AI integration in DevOps workflows for increasing the productivity output**  
+- 👯 I’m looking to collaborate on **DevOps automation, CI/CD pipelines, and cloud infrastructure projects**  
+- 🤔 I’m looking for help with **contributing to open-source DevOps tools**  
+- 💬 Ask me about **AWS, Azure, GCP, Docker, Kubernetes, Jenkins, Terraform, Ansible, CI/CD, and monitoring tools**  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yaswanth-jemudugani) | [E-Mail](yaswanth.professional@gmal.com)  
+- ⚡ Fun fact: I automate my tasks so well that sometimes I forget how to do them manually 😅  
 
 ---
 
