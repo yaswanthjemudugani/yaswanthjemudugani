@@ -8,10 +8,7 @@
 
 🚀 **DevOps Engineer | ☁️ Multi-Cloud | ⚙️ Automation Enthusiast**  
 
-I am a DevOps Engineer with **3 years of experience** in automating infrastructure and streamlining deployments.  
-Skilled in **CI/CD, Docker, Kubernetes, Infrastructure as Code (IaC), and Multi-Cloud (AWS, Azure, GCP)**.  
-Focused on enhancing **system reliability, scalability, and delivery efficiency**.  
-Currently exploring **Gen AI integration in DevOps workflows** to accelerate productivity.  
+I am a DevOps Engineer with **3 years of experience** in automating infrastructure and streamlining deployments. Skilled in **CI/CD, Docker, Kubernetes, Infrastructure as Code (IaC), and Multi-Cloud (AWS, Azure, GCP)**. Focused on enhancing **system reliability, scalability, and delivery efficiency**. Currently exploring **Gen AI integration in DevOps workflows** to accelerate productivity.  
 
 ---
 
