@@ -12,9 +12,9 @@
 - 🌱 I’m currently exploring **📊 Data  + 🚀 Dev + ♾️ Ops**  
 - 👯 I’m looking to collaborate on **DevOps automation, CI/CD pipelines, and cloud infrastructure projects**  
 - 🤔 I’m looking for help with **contributing to open-source DevOps tools**  
-- 💬 Ask me about **AWS, Azure, GCP, Docker, Kubernetes, Jenkins, Terraform, Ansible, CI/CD, and monitoring tools**  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yaswanth-jemudugani) | [E-Mail](yaswanth.professional@gmal.com)  
+- 💬 Ask me about **AWS, Azure, GCP, Docker, Kubernetes, Jenkins, Terraform, Ansible, CI/CD, and monitoring tools**
 - ⚡ Fun fact: I automate my tasks so well that sometimes I forget how to do them manually 😅  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yaswanth-jemudugani) | [E-Mail](yaswanth.professional@gmal.com)  
 
 ---
 
