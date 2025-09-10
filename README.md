@@ -128,7 +128,7 @@
 
 ## 🌐 Connect with Me  
 
-💼 **LinkedIn**: [linkedin.com/in/yaswanth-jemudugani](https://www.linkedin.com/in/yaswanth-jemudugani)
+💼 **LinkedIn**: [linkedin.com/in/yaswanth-jemudugani](https://www.linkedin.com/in/yaswanthjemudugani)
 
 🐙 **GitHub**: [github.com/yaswanthjemudugani](https://github.com/yaswanthjemudugani)
 
