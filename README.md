@@ -20,7 +20,7 @@
 
 ## **📊 Data  + 🚀 Dev + ♾️ Ops**
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/864a6b35-18da-4858-912c-2589c94a0697" />
+<img width="1248" height="832" alt="DataDevOps" src="https://github.com/user-attachments/assets/fa263df8-3887-4bb8-bd98-23d697e6f72c" />
 
 
 ## 🏢 Professional Experience  
