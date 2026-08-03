@@ -86,21 +86,37 @@
 
 ## 📌 Key Projects  
 
-### 🔹 Bursa Bull Charge *(Client: Malaysia – Asia)*  
-**Tech**: AWS CloudFormation, GitLab, Jenkins, Docker, EKS, SonarQube  
-- 🚀 Deployed **Next.js & Node.js apps** on **EKS (Fargate)** for serverless scalability.  
-- 🔄 Built CI/CD pipelines with **GitLab + Jenkins**.  
-- ⚡ Automated infra provisioning with **CloudFormation Templates (CFT)**.  
-- ✅ Integrated **SonarQube** for automated code quality checks.  
-- ♻️ Optimized Kubernetes with **rolling updates** and zero downtime.  
+### 🔹 Marathon Web Application *(Client: Asia)*  
+**Tech**: AWS CloudFormation, GitLab, Jenkins, Docker, Amazon EKS (Fargate), Next.js, Node.js, SonarQube  
+- 🚀 Deployed **Next.js & Node.js applications** on **Amazon EKS (Fargate)** for scalable, serverless container workloads.  
+- 🔄 Built **CI/CD pipelines** using **GitLab + Jenkins** for automated build, test, and deployment.  
+- ⚡ Automated infrastructure provisioning with **AWS CloudFormation Templates (CFT)**.  
+- ✅ Integrated **SonarQube** for automated code quality and static code analysis.  
+- ♻️ Implemented **Kubernetes rolling updates** to achieve zero-downtime deployments.  
 
-### 🔹 VetsMedicover *(Client: London – UK)*  
-**Tech**: Azure, Linux VM, Jenkins, GitLab, Cloudflare, Apache, MySQL  
-- 🖥️ Hosted apps on **Azure Linux VMs** with Apache.  
-- 🚦 Built **CI/CD pipelines** in Jenkins integrated with GitLab.  
-- 💾 Managed **MySQL & PHP apps** with backup and DR readiness.  
-- 🔐 Secured apps with **Cloudflare WAF + CDN**.  
-- 📊 Applied **SonarQube** for static analysis & code quality.  
+### 🔹 LAMP Stack Healthcare Application *(Client: UK)*  
+**Tech**: Azure, Linux VM, Jenkins, GitLab, Cloudflare, Apache, MySQL, PHP, SonarQube  
+- 🖥️ Hosted **PHP applications** on **Azure Linux Virtual Machines** with Apache Web Server.  
+- 🚦 Designed and implemented **CI/CD pipelines** using **GitLab + Jenkins**.  
+- 💾 Managed **MySQL databases**, backups, and disaster recovery (DR) readiness.  
+- 🔐 Enhanced security and performance using **Cloudflare WAF + CDN**.  
+- 📊 Integrated **SonarQube** for static code analysis and code quality monitoring.  
+
+### 🔹 E-Commerce Application *(Client: Asia)*  
+**Tech**: Alibaba Cloud, ECS, GitLab, Jenkins, Magento, WAF, CDN, Redis, OpenSearch, LAMP Stack  
+- 🛒 Deployed **Magento e-commerce platform** on **Alibaba Cloud ECS** instances.  
+- 🔄 Automated application delivery with **GitLab + Jenkins CI/CD pipelines**.  
+- 🛡️ Provisioned secure infrastructure using **Virtual Networks, WAF, and CDN**.  
+- 🔐 Implemented secure access flow between **Jump → Stage → Production → Database** servers.  
+- 🔍 Integrated **Adobe Cloud Security** for continuous website vulnerability scanning.  
+
+### 🔹 Digital Advertising Platform *(Client: USA)*  
+**Tech**: AWS CloudFormation, EC2, Docker, Node.js, RDS, S3, CloudFront, Route 53, Bitbucket, Jenkins, VPN  
+- 🚀 Deployed **Node.js applications** on **AWS EC2** using **Docker containers**.  
+- ⚡ Automated infrastructure provisioning with **AWS CloudFormation Templates (CFT)**.  
+- 🔄 Built **CI/CD pipelines** using **Bitbucket + Jenkins** for automated deployments.  
+- 🔐 Configured secure **VPN connectivity** with SSH access over private IPs.  
+- 🌐 Implemented **S3 Static Website Hosting**, **CloudFront CDN**, and **Route 53 DNS** for high availability and performance.
 
 ---
 
@@ -134,7 +150,7 @@
 
 📧 **Email**: yaswanth.professional@gmail.com
 
-📞 **Phone**: +91-97037XXXXX
+📞 **Phone**: +91-9703714943
 
 📍 **Hyderabad, India**  
 
