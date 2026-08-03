@@ -23,10 +23,13 @@
 <img width="1248" height="832" alt="DataDevOps" src="https://github.com/user-attachments/assets/fa263df8-3887-4bb8-bd98-23d697e6f72c" />
 
 
-## 🏢 Professional Experience  
+## 🏢 Professional Experience 
 
-**💼 PennyWise Solutions Pvt Ltd (Ogilvy) | DevOps Engineer - Technology**  
-📍 Hyderabad, India | 🗓️ *Nov 2022 – Present*  
+**💼 Kensium Solutions Private Limited | DevOps Engineer**  
+📍 Hyderabad, India | 🗓️ *Jan 2026 - Present*  
+
+**💼 PennyWise Solutions Private Limited | DevOps Engineer - Technology**  
+📍 Hyderabad, India | 🗓️ *Nov 2022 - Jan 2026*  
 
 - ☁️ Designed & managed scalable infrastructure on **AWS, Azure, and GCP**.  
 - 🤖 Automated provisioning & deployments using **Terraform, CloudFormation, and Ansible**.  
@@ -86,7 +89,7 @@
 
 ## 📌 Key Projects  
 
-### 🔹 Marathon Web Application *(Client: Asia)*  
+### 🔹 Project-1: Marathon Web Application *(Client: Asia)*  
 **Tech**: AWS CloudFormation, GitLab, Jenkins, Docker, Amazon EKS (Fargate), Next.js, Node.js, SonarQube  
 - 🚀 Deployed **Next.js & Node.js applications** on **Amazon EKS (Fargate)** for scalable, serverless container workloads.  
 - 🔄 Built **CI/CD pipelines** using **GitLab + Jenkins** for automated build, test, and deployment.  
@@ -94,7 +97,7 @@
 - ✅ Integrated **SonarQube** for automated code quality and static code analysis.  
 - ♻️ Implemented **Kubernetes rolling updates** to achieve zero-downtime deployments.  
 
-### 🔹 LAMP Stack Healthcare Application *(Client: UK)*  
+### 🔹 Project-2: LAMP Stack Healthcare Application *(Client: UK)*  
 **Tech**: Azure, Linux VM, Jenkins, GitLab, Cloudflare, Apache, MySQL, PHP, SonarQube  
 - 🖥️ Hosted **PHP applications** on **Azure Linux Virtual Machines** with Apache Web Server.  
 - 🚦 Designed and implemented **CI/CD pipelines** using **GitLab + Jenkins**.  
@@ -102,7 +105,7 @@
 - 🔐 Enhanced security and performance using **Cloudflare WAF + CDN**.  
 - 📊 Integrated **SonarQube** for static code analysis and code quality monitoring.  
 
-### 🔹 E-Commerce Application *(Client: Asia)*  
+### 🔹 Project-3: E-Commerce Application *(Client: Asia)*  
 **Tech**: Alibaba Cloud, ECS, GitLab, Jenkins, Magento, WAF, CDN, Redis, OpenSearch, LAMP Stack  
 - 🛒 Deployed **Magento e-commerce platform** on **Alibaba Cloud ECS** instances.  
 - 🔄 Automated application delivery with **GitLab + Jenkins CI/CD pipelines**.  
@@ -110,7 +113,7 @@
 - 🔐 Implemented secure access flow between **Jump → Stage → Production → Database** servers.  
 - 🔍 Integrated **Adobe Cloud Security** for continuous website vulnerability scanning.  
 
-### 🔹 Digital Advertising Platform *(Client: USA)*  
+### 🔹 Project-4: Digital Advertising Platform *(Client: USA)*  
 **Tech**: AWS CloudFormation, EC2, Docker, Node.js, RDS, S3, CloudFront, Route 53, Bitbucket, Jenkins, VPN  
 - 🚀 Deployed **Node.js applications** on **AWS EC2** using **Docker containers**.  
 - ⚡ Automated infrastructure provisioning with **AWS CloudFormation Templates (CFT)**.  
@@ -126,13 +129,6 @@
 - 🥇 Microsoft Certified: **Azure Administrator**  
 - 🥇 AWS Certified: **Cloud Practitioner**  
 - 🥇 GitHub Foundations & Jira Fundamentals  
-
----
-
-## 📊 GitHub Stats  
-
-![Yaswanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaswanthjemudugani&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthjemudugani&layout=compact&theme=radical)  
 
 ---
 
