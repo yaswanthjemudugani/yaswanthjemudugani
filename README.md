@@ -18,9 +18,12 @@
 
 ---
 
-## **📊 Data  + 🚀 Dev + ♾️ Ops**
+## **🤖 Agentic AI + 🚀 Dev + ♾️ Ops**
 
-<img width="1248" height="832" alt="DataDevOps" src="https://github.com/user-attachments/assets/fa263df8-3887-4bb8-bd98-23d697e6f72c" />
+#<img width="1248" height="832" alt="DataDevOps" src="https://github.com/user-attachments/assets/fa263df8-3887-4bb8-bd98-23d697e6f72c" />
+
+<img width="900" height="630" alt="image" src="https://github.com/user-attachments/assets/50ab46cb-5957-4b09-8bbe-681a23553af1" />
+
 
 
 ## 🏢 Professional Experience 
